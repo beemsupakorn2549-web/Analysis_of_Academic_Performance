@@ -1,4 +1,5 @@
-# Student-Performance-Analysis  
+# Analysis_of_Academic_Performance
+  
 
 I have some project that my professor in Regression & Correlation Analysis has told to find some Dataset to Forecasting and Application Knowledge. So that i'm Decide to Predict Performance Index from 10K Student  
 
